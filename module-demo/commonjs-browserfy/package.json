@@ -1,0 +1,9 @@
+{
+  "name": "commonjs-browserfy",
+  "version": "1.0.0",
+  "main": "js/src/app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^16.5.0"
+  }
+}

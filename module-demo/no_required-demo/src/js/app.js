@@ -1,0 +1,3 @@
+(function () {
+    demoFun.demoFun();
+})(demoFun);
